@@ -1,0 +1,5 @@
+.codeoss/
+.gemini/
+node_modules/
+package-lock.json
+README-cloudshell.txt
